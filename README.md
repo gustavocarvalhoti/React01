@@ -1,2 +1,2 @@
 # React01
-IntelliJ + React + Utiliza Rest do projeto Spring Boot (Está no reposiótio)
+IntelliJ + React + Utiliza Rest do projeto SpringBoot (Está no repositótio)
